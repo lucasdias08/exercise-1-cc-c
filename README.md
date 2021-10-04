@@ -1,3 +1,5 @@
+# atividade-3-cc-unp-tec-prog
+
 Caro estudante, Em linguagens de programação estruturadas, tal como a linguagem C/C++ temos a possibilidade de organizar as informações a serem manipuladas sob dois aspectos: organização homogênea e organização heterogênea. No viés homogêneo, todas as informações, possuidoras de um único tipo de dados, estão dispostas em uma estrutura denominada vetor. E, por sua vez, no viés heterogêneo, as informações, podendo possuir tipagens distintas, estão armazenadas em estruturas de dados denominadas como “struct”. Com base nisso, suponha que é necessário armazenar informações relacionadas à veículos, totalizando, no máximo, 10 veículos.
 
 Para cada veículo, deverão ser fornecidos os seguintes dados:
